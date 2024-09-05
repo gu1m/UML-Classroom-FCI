@@ -37,17 +37,17 @@ do intervalo. O estudando terá que ter uma presença mínima de >75% para passa
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 - Requisitos Funcionais:
-  > Plataforma fácil e intuitiva.
-  > Ter Login e Senha.
-  > Gerar Relatorios de Faltas agrupados por data, ano de ensino turma, professor disciplina ou aluno.
-  > Enviar notificações por email para os responsaveis em caso de faltas execissivas (presença < 80%).
-  > Acessibilidade: garantir um sistema acessivel a toos os usuarios, incluindo pessoas com deficiencias, com recursos de acessibilidade como tamanho de fonte ajustavél.
-  > Enviroment separado por materia.
+  - Plataforma fácil e intuitiva.
+  - Ter Login e Senha.
+  - Gerar Relatorios de Faltas agrupados por data, ano de ensino turma, professor disciplina ou aluno.
+  - Enviar notificações por email para os responsaveis em caso de faltas execissivas (presença < 80%).
+  - Acessibilidade: garantir um sistema acessivel a toos os usuarios, incluindo pessoas com deficiencias, com recursos de acessibilidade como tamanho de fonte ajustavél.
+  - Enviroment separado por materia.
+  - Acesso a partir de qualquer navegador web, inclusive em dispositivos móveis.
 - Não Funcionais:
-  > Acesso a partir de qualquer navegador web, inclusive em dispositivos móveis.
-  > Ter segurança para impedir acessos a dados sensiveis, ou acesso indevido possibilitando a alteração de dados.
-  > Impossibilitar a visualização de relatorios de terceiros.
-  > Sistema deve estar disponível a todo tempo.
+  - Ter segurança para impedir acessos a dados sensiveis, ou acesso indevido possibilitando a alteração de dados.
+  - Impossibilitar a visualização de relatorios de terceiros.
+  - Sistema deve estar disponível a todo tempo.
 
 # Diagrama de Atividades
 
