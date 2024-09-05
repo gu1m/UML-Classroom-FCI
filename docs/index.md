@@ -32,11 +32,12 @@
 
 # Descrição do Projeto
 
-Dado a demanda da Escola Infinito, temos a tarefa de desenvolver um Sistema de Presenças que será implementado para turmas (de 20 e 30 alunos) do 1° ao 5° ano do Ensino Fundamental II. Cada turma tem um professor especifico, ou seja, cada professor terá um enviroment para a turma que ele leciona em especifico, no qual consegue realizar o controle da presença (alguns professores como por exemplo: Professores de inglês e Educação Física necessitaram ter acesso ao enviroment de todas as turmas). O Sistema será acessado para computar falta ou presença no inicio das aulas e logo após o retorno
-do intervalo. O estudando terá que ter uma presença mínima de >75% para passar na materia.
+Dado a demanda da Escola Infinito, temos a tarefa de desenvolver um Sistema de Presenças que será implementado para turmas (de 20 e 30 alunos) do 1° ao 5° ano do Ensino Fundamental II. Cada turma tem um professor especifico, ou seja, cada professor terá um enviroment para a turma que ele leciona em especifico, no qual consegue realizar o controle da presença (alguns professores como por exemplo: Professores de inglês e Educação Física necessitaram ter acesso ao enviroment de todas as turmas).Os responsaveis também terão um enviroment onde é possível visualizar a quantidade de presença e faltas. O Sistema será acessado para computar falta ou presença no inicio das aulas e logo após o retorno do intervalo. O estudando terá que ter uma presença mínima de >75% para passar na materia.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 - Requisitos Funcionais:
+  - Enviroment do responsavél
+  - Enviroment do professor 
   - Plataforma fácil e intuitiva.
   - Ter Login e Senha.
   - Gerar Relatorios de Faltas agrupados por data, ano de ensino turma, professor disciplina ou aluno.
