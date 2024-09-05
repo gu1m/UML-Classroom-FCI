@@ -3,10 +3,8 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*&lt;TIA 2&gt;*
 </center></font>
-
-TIA 2
 
 **Conteúdo**
 
