@@ -3,8 +3,8 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
-</center>Escola Infinito: TIA 2</font>
+*&lt;Nome do Projeto&gt;* : Escola Infinito (TIA 2)
+</center></font>
 
 **Conteúdo**
 
